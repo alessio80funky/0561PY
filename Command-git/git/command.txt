@@ -1,0 +1,27 @@
+＊初回の流れは下記となります：
+
+- git init  ::>   gitをスタートさせるコマンド
+
+- git add .　::> gitを登録します
+
+- git remote add origin https:\\link.git (git レポジトリーのリンク)　::> githubのレポジトリーの連携をするコマンド
+
+- git branch -M main ::> github  のサブフォルダ（gitを保存する場所）を選ぶコマンド　
+
+- git commit -m "コメント"　::>  gitの登録をgithub上に保存するためのコマンドです
+
+- git push -u origin main ::> gitをクラウドにアップロードするコマンド　
+
+
+＊二回目以降は下記となります：
+
+- git add .　::> gitを登録します
+
+- git commit -m "コメント"　::>  gitの登録をgithub上に保存するためのコマンドです
+
+- git push origin main ::> gitをクラウドにアップロードするコマンド
+
+
+
+
+
