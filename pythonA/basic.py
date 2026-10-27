@@ -5,7 +5,7 @@ print(name)
 #pythonのテンプレート文字列
 print(f"My name is {name}")
 
-#pythonの巻子
+#pythonの関数
 def sayHello():
     print(name)
     

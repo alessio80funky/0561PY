@@ -1,0 +1,12 @@
+[
+  {
+    "product": "ノート",
+    "price": 200,
+    "quantity": 1
+  },
+  {
+    "product": "ペン",
+    "price": 150,
+    "quantity": 5
+  }
+]
